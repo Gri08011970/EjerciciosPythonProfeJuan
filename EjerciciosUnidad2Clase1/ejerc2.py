@@ -1,4 +1,5 @@
 #ejercicio 2 Unidad 2 Clase 1. Griselda Molina
+
 ganados = int(input("Ingrese la cantidad de partidos ganados: "))
 empatados = int(input("Ingrese la cantidad de partidos empatados: "))
 perdidos = int(input("Ingrese la cantidad de partidos perdidos: "))

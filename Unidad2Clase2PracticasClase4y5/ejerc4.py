@@ -1,4 +1,4 @@
-#ejercicio número 3bis de listas. Molina Griselda
+#ejercicio número 4 de Prácticas de las clases 4y5. Molina Griselda
 
 print("Ingrese números enteros. Ingrese 0 para terminar.")
 

@@ -1,4 +1,4 @@
-#ejercicio número 1 de listas. Molina Griselda
+#ejercicio número 1 de Prácticas de las clases 4y5. Molina Griselda
 
 list1 = [8,18,23,14]
 list2 = ["S","O","F","I","A"]

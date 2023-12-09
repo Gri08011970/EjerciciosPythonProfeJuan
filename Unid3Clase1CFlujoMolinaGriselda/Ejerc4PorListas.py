@@ -1,3 +1,4 @@
+# UNIDAD 3 CLASE 1 EJERCIO 4 por listas CONTROL DE FLUJO. MOLINA GRISELDA
 # números ordenados de menor a mayor  usando listas y sus métodos.
 
 lista = [17,7,19]

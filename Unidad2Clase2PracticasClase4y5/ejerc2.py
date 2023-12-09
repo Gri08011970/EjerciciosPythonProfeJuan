@@ -1,4 +1,4 @@
-#ejercicio número 2 de listas. Molina Griselda
+#ejercicio número 2 de Prácticas de las clases 4y5. Molina Griselda
 
 número = int(input("Ingrese un número entero mayor que cero: "))
 

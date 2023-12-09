@@ -1,3 +1,5 @@
+#ejercicio número 5 de Prácticas de las clases 4y5. Molina Griselda
+
 # Función para contar las vocales en una palabra
 def contar_vocales(palabra):
     vocales = {'a': 0, 'e': 0, 'i': 0, 'o': 0, 'u': 0}

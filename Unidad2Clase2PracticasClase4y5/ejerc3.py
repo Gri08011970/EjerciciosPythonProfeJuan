@@ -1,4 +1,4 @@
-#ejercicio número 3 de listas. Molina Griselda
+#ejercicio número 3 de Prácticas de las clases 4y5. Molina Griselda
 
 a = int(input("Ingresa un número:"))
 b = int(input("Ingresa otro número:"))
