@@ -1,0 +1,13 @@
+# UNIDAD 3 CLASE 1 EJERCIO 3 CONTROL DE FLUJO. MOLINA GRISELDA
+Usuario_ = "grisel1970@gmail.com"
+contraseña_ = "Manzana"
+print("Ingrese Usuario y contraseña")
+print("Usuario: ")
+User = input()
+print ("contraseña:")
+contraseña = input()
+
+if User==Usuario_ and contraseña==contraseña_:
+    print("Hola, por fin te pusiste a estudiar!")
+else:
+    print("prestá atención y escribí bien tu usuario y tu contraseña")
